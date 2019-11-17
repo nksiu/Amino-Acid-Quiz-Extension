@@ -1,2 +1,2 @@
 # Amino-Acid-Quiz-Extension
-This extension will give you an Amino Acid Quiz when you open a new tab on Google Chrome
+This Google Chrome Extension will give you a new Amino Acid Quiz everytime you open a new tab on Google Chrome
