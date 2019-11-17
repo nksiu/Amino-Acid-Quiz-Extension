@@ -1,0 +1,19 @@
+.header {
+	padding: 30px;
+	text-align: center;
+	background: #c06c84;
+	color: white;
+	font-size: 15px;
+}
+
+p {
+	text-align: center;
+}
+#enter_button {
+	border: none;
+	text-align: center;
+	display: inline-block;
+	font-size: 12px;
+	background-color: #355c7d;
+	color: white;
+}

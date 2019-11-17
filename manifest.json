@@ -1,0 +1,28 @@
+{
+"name": "Amino Acid Extension",
+"manifest_version": 2,
+"version": "1.0",
+"description": "Every time a new tab is open, there is a random amino acid",
+
+"chrome_url_overrides" : {
+	"newtab": "amino.html"
+},
+
+"browser_action": {
+	"default_icon": {
+		"16": "images/pika_icon16.png",
+		"32": "images/pika_icon32.png",
+		"48": "images/pika_icon48.png",
+		"128": "images/pika_icon128.png"
+	}
+},
+
+"icons": {
+		"16": "images/pika_icon16.png",
+		"32": "images/pika_icon32.png",
+		"48": "images/pika_icon48.png",
+		"128": "images/pika_icon128.png"
+},
+
+"web_accessible_resources": ["images/anime_acid.png"]
+}
